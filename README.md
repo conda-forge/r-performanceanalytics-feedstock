@@ -1,11 +1,22 @@
+About r-performanceanalytics-feedstock
+======================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-performanceanalytics-feedstock/blob/main/LICENSE.txt)
+
 About r-performanceanalytics
-============================
+----------------------------
 
 Home: https://github.com/braverock/PerformanceAnalytics
 
 Package license: GPL-2 | GPL-3
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-performanceanalytics-feedstock/blob/main/LICENSE.txt)
+Summary: Collection of econometric functions for performance and risk  analysis. In addition to standard risk and performance metrics, this  package aims to aid practitioners and researchers in utilizing the latest research in analysis of non-normal return streams.  In general, it is most  tested on return (rather than price) data on a regular scale, but most  functions will work with irregular return data as well, and increasing numbers of functions will work with P&L or price data where possible.
+About r-performanceanalytics
+----------------------------
+
+Home: https://github.com/braverock/PerformanceAnalytics
+
+Package license: GPL-2 | GPL-3
 
 Summary: Collection of econometric functions for performance and risk  analysis. In addition to standard risk and performance metrics, this  package aims to aid practitioners and researchers in utilizing the latest research in analysis of non-normal return streams.  In general, it is most  tested on return (rather than price) data on a regular scale, but most  functions will work with irregular return data as well, and increasing numbers of functions will work with P&L or price data where possible.
 
@@ -27,38 +38,38 @@ Current build status
         <table>
           <thead><tr><th>Variant</th><th>Status</th></tr></thead>
           <tbody><tr>
-              <td>linux_64_r_base4.1</td>
-              <td>
-                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=2436&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-performanceanalytics-feedstock?branchName=main&jobName=linux&configuration=linux_64_r_base4.1" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
               <td>linux_64_r_base4.2</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=2436&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-performanceanalytics-feedstock?branchName=main&jobName=linux&configuration=linux_64_r_base4.2" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-performanceanalytics-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_r_base4.2" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_r_base4.1</td>
+              <td>linux_64_r_base4.3</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=2436&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-performanceanalytics-feedstock?branchName=main&jobName=osx&configuration=osx_64_r_base4.1" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-performanceanalytics-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_r_base4.3" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>osx_64_r_base4.2</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=2436&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-performanceanalytics-feedstock?branchName=main&jobName=osx&configuration=osx_64_r_base4.2" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-performanceanalytics-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_r_base4.2" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_r_base4.3</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=2436&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-performanceanalytics-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_r_base4.3" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>win_64</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=2436&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-performanceanalytics-feedstock?branchName=main&jobName=win&configuration=win_64_" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-performanceanalytics-feedstock?branchName=main&jobName=win&configuration=win%20win_64_" alt="variant">
                 </a>
               </td>
             </tr>

@@ -51,7 +51,7 @@ test:
 
 about:
   home: https://github.com/braverock/PerformanceAnalytics
-  license: GPL-2 | GPL-3
+  license: GPL-2.0-or-later
   summary: Collection of econometric functions for performance and risk  analysis. In addition
     to standard risk and performance metrics, this  package aims to aid practitioners
     and researchers in utilizing the latest research in analysis of non-normal return
@@ -59,7 +59,8 @@ about:
     regular scale, but most  functions will work with irregular return data as well,
     and increasing numbers of functions will work with P&L or price data where possible.
   license_family: GPL3
-  license_file: '{{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-2'
+  license_file:
+    - {{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-2
 
 extra:
   recipe-maintainers:

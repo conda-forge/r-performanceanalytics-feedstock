@@ -9,7 +9,7 @@ About r-performanceanalytics
 
 Home: https://github.com/braverock/PerformanceAnalytics
 
-Package license: GPL-2 | GPL-3
+Package license: GPL-2.0-or-later
 
 Summary: Collection of econometric functions for performance and risk  analysis. In addition to standard risk and performance metrics, this  package aims to aid practitioners and researchers in utilizing the latest research in analysis of non-normal return streams.  In general, it is most  tested on return (rather than price) data on a regular scale, but most  functions will work with irregular return data as well, and increasing numbers of functions will work with P&L or price data where possible.
 
@@ -18,7 +18,7 @@ About r-performanceanalytics
 
 Home: https://github.com/braverock/PerformanceAnalytics
 
-Package license: GPL-2 | GPL-3
+Package license: GPL-2.0-or-later
 
 Summary: Collection of econometric functions for performance and risk  analysis. In addition to standard risk and performance metrics, this  package aims to aid practitioners and researchers in utilizing the latest research in analysis of non-normal return streams.  In general, it is most  tested on return (rather than price) data on a regular scale, but most  functions will work with irregular return data as well, and increasing numbers of functions will work with P&L or price data where possible.
 
